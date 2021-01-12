@@ -1,0 +1,43 @@
+.row{
+  margin-left: 0px!important;
+  margin-right: 0px!important
+}
+.spinner-grow{
+  width: 5rem;
+  height: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+p{
+  padding: 3px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 5px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 400;
+}
+.login{
+  background-color: pink;
+}
+.lat{
+  background-color: teal;
+}
+.lon{
+  background-color: blue;
+}
+.address{
+  background-color: purple;
+}
+.method{
+  background-color: grey;
+}
+.number{
+  background-color: violet;
+}
+.jumbotron{
+  /* position: fixed;
+  z-index: 100!important;
+  width: 100% */
+}
